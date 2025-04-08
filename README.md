@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev CH4 - Guided Bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
